@@ -10,7 +10,7 @@ namespace TesteGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo de uso do Git Hub");
+            Console.WriteLine("Exemplo de uso do Git Hub com visual studio");
             Console.ReadKey();
         }
     }
